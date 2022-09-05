@@ -9,8 +9,8 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-  <img width="300em" src="https://github-readme-stats.vercel.app/api?username=luisfelipecod&show_icons=true&theme=tokyonight" alt="LuisFelipe's stats"/>
- <img width="294em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipecod&layout=compact&theme=tokyonight" alt="LuisFelipe's most languages"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=luisfelipecod&show_icons=true&theme=tokyonight" alt="LuisFelipe's stats"/>
+ <img width="394em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipecod&layout=compact&theme=tokyonight" alt="LuisFelipe's most languages"/>
 </p>
 <div>
   <img align="center" alt="Luis-Felipe-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
